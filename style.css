@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #1f2937;
+}
+.navbar p {
+    color: #f9faf8;
+    font-size: 24px;
+}
+.navbar a {
+    color: #e5e7eb;
+    font-size: 18px;
+}
